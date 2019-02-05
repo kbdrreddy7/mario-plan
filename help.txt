@@ -1,0 +1,2 @@
+Project Console: https://console.firebase.google.com/project/mario-plan-kbdrreddy7/overview
+Hosting URL: https://mario-plan-kbdrreddy7.firebaseapp.com
